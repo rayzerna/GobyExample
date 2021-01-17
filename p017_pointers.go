@@ -1,4 +1,5 @@
 package main
+
 /*
 Go支持指针（poiter），允许你在程序中向值或记录传递引用
 */
